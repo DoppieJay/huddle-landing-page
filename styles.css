@@ -152,7 +152,7 @@ a {
 
 
 body {
-  background-image: url('https://github.com/DoppieJay/huddle-landing-page/blob/main/images/bg-desktop.svg');
+  background-image: url('huddle-landing-page/images/bg-desktop.svg');
   background-color: hsl(257, 40%, 49%);
   background-repeat: no-repeat;
   background-size: cover;
